@@ -1,4 +1,4 @@
-# Telegram for Franz
+# Dribbble for Franz
 
 This is the official Franz recipe for Dribbble
 
